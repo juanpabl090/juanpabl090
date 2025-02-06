@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Juan Pablo Montoya<br>A passionate developer from Mexico<br>🌱 I’m currently java SpringBoot, and Javascript react developer<br>📫 How to reach me juanpabl017000@gmail.com
+Hi 👋, I'm Juan Pablo Montoya<br>A passionate developer from Mexico<br>🌱 I’m currently java SpringBoot, and Javascript react developer<br>📫 How to reach me juanpabl017000@gmail.com, juanrona12@gmail.com
 
 
 ## 🌐 Socials:
